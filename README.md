@@ -1,10 +1,12 @@
 # Wreckfest 2 VR by MatteKarla
 
+Download: https://github.com/MatsKarlsson/Wreckfest2VR/releases
+
 An unofficial, unsupported VR mod for **Wreckfest 2**. It is not affiliated with or supported by the game's developers. Both the game and the mod are in early access, so expect bugs, missing effects and crashes.
 
 ![Wreckfest 2 VR launcher](wf2vr.png)
 
-The mod adds stereoscopic cockpit rendering and head tracking, so you can look around and lean inside the car. A transparent HUD can show race information and player names. Menus and loading screens automatically use a flat panel in VR.
+The mod adds stereoscopic cockpit VR rendering and head tracking, so you can look around and lean inside the car. A transparent HUD can show race information and player names. Menus and loading screens automatically use a flat panel in VR.
 
 ## Getting started
 
